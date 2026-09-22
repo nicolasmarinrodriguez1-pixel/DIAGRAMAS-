@@ -1,0 +1,23 @@
+flowchart TD
+    A[Mapa visual de puntos de acupuntura] --> B[Extremidad superior]
+    A --> C[Tronco]
+    A --> D[Extremidad inferior]
+
+    B --> B1[LI4 · mano]
+    B --> B2[PC6 · antebrazo]
+    C --> C1[CV17 · torax]
+    D --> D1[ST36 · pierna]
+
+    B1 --> E[Referencia educativa]
+    B2 --> E
+    C1 --> E
+    D1 --> E
+    E --> F[La localizacion exacta requiere formacion profesional]
+    F --> G[Consulta a personal sanitario cualificado]
+
+    classDef region fill:#d9e8ef,stroke:#161616,color:#161616
+    classDef point fill:#f2c14e,stroke:#d90429,color:#161616
+    classDef note fill:#fff4d6,stroke:#005b96,color:#161616
+    class B,C,D region
+    class B1,B2,C1,D1 point
+    class E,F,G note

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Mapa visual introductorio de puntos de acupuntura</title>
+  <desc id="desc">Silueta humana con puntos de referencia educativos en mano, antebrazo y pierna.</desc>
+  <rect width="800" height="1000" fill="#fff4d6"/>
+  <path d="M0 135 H800" stroke="#f2c14e" stroke-width="12"/>
+  <text x="400" y="70" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="700" fill="#161616">Puntos de acupuntura</text>
+  <text x="400" y="105" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#005b96">Referencias visuales educativas, no clinicas</text>
+
+  <g fill="#d9e8ef" stroke="#161616" stroke-width="6">
+    <circle cx="400" cy="185" r="62"/>
+    <path d="M350 250 C330 275 315 315 315 370 L285 560 L230 730 L270 750 L350 590 L370 430 L370 830 L315 940 L365 950 L400 850 L435 950 L485 940 L430 830 L430 430 L450 590 L530 750 L570 730 L515 560 L485 370 C485 315 470 275 450 250 Z"/>
+  </g>
+
+  <g fill="#d90429" stroke="#fff4d6" stroke-width="5">
+    <circle cx="270" cy="750" r="13"/>
+    <circle cx="315" cy="490" r="13"/>
+    <circle cx="485" cy="490" r="13"/>
+    <circle cx="400" cy="285" r="13"/>
+  </g>
+
+  <g font-family="sans-serif" font-size="20" font-weight="700" fill="#161616">
+    <path d="M270 750 H120" stroke="#d90429" stroke-width="4"/>
+    <text x="35" y="745">ST36 · pierna</text>
+    <path d="M315 490 H125" stroke="#d90429" stroke-width="4"/>
+    <text x="35" y="485">LI4 · mano</text>
+    <path d="M485 490 H675" stroke="#d90429" stroke-width="4"/>
+    <text x="615" y="485">PC6 · antebrazo</text>
+    <path d="M400 285 H610" stroke="#d90429" stroke-width="4"/>
+    <text x="615" y="280">CV17 · torax</text>
+  </g>
+
+  <rect x="90" y="875" width="620" height="65" rx="4" fill="#fffaf0" stroke="#005b96" stroke-width="3"/>
+  <text x="400" y="903" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#161616">La ubicacion exacta requiere formacion profesional.</text>
+  <text x="400" y="925" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#161616">Consulta a personal sanitario cualificado.</text>
+</svg>
