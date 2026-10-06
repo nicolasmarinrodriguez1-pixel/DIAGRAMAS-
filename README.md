@@ -9,6 +9,7 @@ La direccion visual combina una paleta aventurera de azul marino, dorado y rojo 
 - [Diagrama SVG](diagramas/puntos-acupuntura.svg): mapa visual con silueta y referencias corporales.
 - [Diagrama Excalidraw](diagramas/puntos-acupuntura.excalidraw): esquema editable para abrir en Excalidraw.
 - [Diagrama Mermaid](diagramas/puntos-acupuntura.mmd): relaciones entre regiones corporales y puntos de referencia.
+- [Video Remotion](video-acupuntura/README.md): guía animada con las mismas cuatro referencias y un aviso educativo.
 
 Los puntos incluidos son LI4 (mano), PC6 (antebrazo), CV17 (torax) y ST36 (pierna). El material es informativo y no sustituye una evaluacion, diagnostico ni tratamiento profesional. La localizacion exacta y cualquier uso clinico deben realizarse con personal sanitario cualificado.
 
